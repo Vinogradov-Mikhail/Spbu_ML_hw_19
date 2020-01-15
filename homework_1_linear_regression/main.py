@@ -112,7 +112,7 @@ def fold_step(fold_num, normolise_dataset, test_fold):
     print("R^2 for test - ", R2, "\n")
 
 def main():
-    dataset = pd.read_csv("../../Features_Variant_1.csv", header=None)
+    dataset = pd.read_csv("../Dataset/Features_Variant_1.csv", header=None)
 
     normolise_dataset = pd.DataFrame(columns=dataset.columns)
 
