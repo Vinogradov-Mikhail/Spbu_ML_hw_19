@@ -1,0 +1,441 @@
+MacBook-Pro-Mihail-2:2. Factorization machine mikhailvinogradov$ python3 main.py 
+/Users/mikhailvinogradov/anaconda3/lib/python3.6/site-packages/sklearn/externals/joblib/__init__.py:15: FutureWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=FutureWarning)
+Loading training data
+Training data loaded
+################
+## Split -  1 ##
+################
+Epoch -  0
+19626  batches
+	Current batch: 0
+		 batch RMSE = [[3.73715247]]
+	Current batch: 500
+		 batch RMSE = [[1.05260376]]
+	Current batch: 1000
+		 batch RMSE = [[1.04940748]]
+	Current batch: 1500
+		 batch RMSE = [[1.0494677]]
+	Current batch: 2000
+		 batch RMSE = [[1.02020695]]
+	Current batch: 2500
+		 batch RMSE = [[1.03806184]]
+	Current batch: 3000
+		 batch RMSE = [[1.0349561]]
+	Current batch: 3500
+		 batch RMSE = [[1.03600402]]
+	Current batch: 4000
+		 batch RMSE = [[1.04204513]]
+	Current batch: 4500
+		 batch RMSE = [[1.02756202]]
+	Current batch: 5000
+		 batch RMSE = [[1.04761641]]
+	Current batch: 5500
+		 batch RMSE = [[1.02423725]]
+	Current batch: 6000
+		 batch RMSE = [[1.02653515]]
+	Current batch: 6500
+		 batch RMSE = [[1.04450732]]
+	Current batch: 7000
+		 batch RMSE = [[1.01571236]]
+	Current batch: 7500
+		 batch RMSE = [[1.01333117]]
+	Current batch: 8000
+		 batch RMSE = [[1.02997891]]
+	Current batch: 8500
+		 batch RMSE = [[1.02222254]]
+	Current batch: 9000
+		 batch RMSE = [[1.01995134]]
+	Current batch: 9500
+		 batch RMSE = [[1.039281]]
+	Current batch: 10000
+		 batch RMSE = [[1.01285571]]
+	Current batch: 10500
+		 batch RMSE = [[1.02722799]]
+	Current batch: 11000
+		 batch RMSE = [[1.00762398]]
+	Current batch: 11500
+		 batch RMSE = [[1.02649925]]
+	Current batch: 12000
+		 batch RMSE = [[0.99787916]]
+	Current batch: 12500
+		 batch RMSE = [[1.02246753]]
+	Current batch: 13000
+		 batch RMSE = [[1.01936027]]
+	Current batch: 13500
+		 batch RMSE = [[1.03506305]]
+	Current batch: 14000
+		 batch RMSE = [[1.03010059]]
+	Current batch: 14500
+		 batch RMSE = [[1.02813692]]
+	Current batch: 15000
+		 batch RMSE = [[1.00032279]]
+	Current batch: 15500
+		 batch RMSE = [[1.0344345]]
+	Current batch: 16000
+		 batch RMSE = [[1.02737672]]
+	Current batch: 16500
+		 batch RMSE = [[1.0145533]]
+	Current batch: 17000
+		 batch RMSE = [[1.03317841]]
+	Current batch: 17500
+		 batch RMSE = [[1.0186524]]
+	Current batch: 18000
+		 batch RMSE = [[1.00594551]]
+	Current batch: 18500
+		 batch RMSE = [[1.0013965]]
+	Current batch: 19000
+		 batch RMSE = [[1.02787417]]
+	Current batch: 19500
+		 batch RMSE = [[1.01814015]]
+RMSE after training = [[1.01752382]] +++
+################
+## Split -  2 ##
+################
+Epoch -  0
+19626  batches
+	Current batch: 0
+		 batch RMSE = [[3.74645014]]
+	Current batch: 500
+		 batch RMSE = [[1.05913402]]
+	Current batch: 1000
+		 batch RMSE = [[1.03956659]]
+	Current batch: 1500
+		 batch RMSE = [[1.02882752]]
+	Current batch: 2000
+		 batch RMSE = [[1.06452691]]
+	Current batch: 2500
+		 batch RMSE = [[1.0347943]]
+	Current batch: 3000
+		 batch RMSE = [[1.03164565]]
+	Current batch: 3500
+		 batch RMSE = [[1.03853851]]
+	Current batch: 4000
+		 batch RMSE = [[1.01747388]]
+	Current batch: 4500
+		 batch RMSE = [[1.04568254]]
+	Current batch: 5000
+		 batch RMSE = [[1.02708698]]
+	Current batch: 5500
+		 batch RMSE = [[1.03494172]]
+	Current batch: 6000
+		 batch RMSE = [[1.03131269]]
+	Current batch: 6500
+		 batch RMSE = [[1.02712549]]
+	Current batch: 7000
+		 batch RMSE = [[1.02955568]]
+	Current batch: 7500
+		 batch RMSE = [[1.01312133]]
+	Current batch: 8000
+		 batch RMSE = [[1.01721989]]
+	Current batch: 8500
+		 batch RMSE = [[1.01650793]]
+	Current batch: 9000
+		 batch RMSE = [[1.01994357]]
+	Current batch: 9500
+		 batch RMSE = [[1.00467424]]
+	Current batch: 10000
+		 batch RMSE = [[1.01731211]]
+	Current batch: 10500
+		 batch RMSE = [[1.0230348]]
+	Current batch: 11000
+		 batch RMSE = [[1.03555762]]
+	Current batch: 11500
+		 batch RMSE = [[1.00102326]]
+	Current batch: 12000
+		 batch RMSE = [[1.01904363]]
+	Current batch: 12500
+		 batch RMSE = [[1.01805084]]
+	Current batch: 13000
+		 batch RMSE = [[1.02134023]]
+	Current batch: 13500
+		 batch RMSE = [[1.02137994]]
+	Current batch: 14000
+		 batch RMSE = [[1.02356714]]
+	Current batch: 14500
+		 batch RMSE = [[1.0259373]]
+	Current batch: 15000
+		 batch RMSE = [[1.00457765]]
+	Current batch: 15500
+		 batch RMSE = [[1.01998385]]
+	Current batch: 16000
+		 batch RMSE = [[1.01812582]]
+	Current batch: 16500
+		 batch RMSE = [[1.02256166]]
+	Current batch: 17000
+		 batch RMSE = [[1.03946744]]
+	Current batch: 17500
+		 batch RMSE = [[1.01072223]]
+	Current batch: 18000
+		 batch RMSE = [[1.00638684]]
+	Current batch: 18500
+		 batch RMSE = [[1.0367223]]
+	Current batch: 19000
+		 batch RMSE = [[1.01705671]]
+	Current batch: 19500
+		 batch RMSE = [[1.02036681]]
+RMSE after training = [[1.01252151]] +++
+################
+## Split -  3 ##
+################
+Epoch -  0
+19626  batches
+	Current batch: 0
+		 batch RMSE = [[3.75513971]]
+	Current batch: 500
+		 batch RMSE = [[1.05764987]]
+	Current batch: 1000
+		 batch RMSE = [[1.09677899]]
+	Current batch: 1500
+		 batch RMSE = [[1.05372985]]
+	Current batch: 2000
+		 batch RMSE = [[1.04275283]]
+	Current batch: 2500
+		 batch RMSE = [[1.04637606]]
+	Current batch: 3000
+		 batch RMSE = [[1.03427594]]
+	Current batch: 3500
+		 batch RMSE = [[1.04200402]]
+	Current batch: 4000
+		 batch RMSE = [[1.02550392]]
+	Current batch: 4500
+		 batch RMSE = [[1.01314287]]
+	Current batch: 5000
+		 batch RMSE = [[1.04168728]]
+	Current batch: 5500
+		 batch RMSE = [[1.01535861]]
+	Current batch: 6000
+		 batch RMSE = [[1.02362988]]
+	Current batch: 6500
+		 batch RMSE = [[1.01864693]]
+	Current batch: 7000
+		 batch RMSE = [[1.01924998]]
+	Current batch: 7500
+		 batch RMSE = [[1.04318015]]
+	Current batch: 8000
+		 batch RMSE = [[1.03538]]
+	Current batch: 8500
+		 batch RMSE = [[1.02955979]]
+	Current batch: 9000
+		 batch RMSE = [[1.03321698]]
+	Current batch: 9500
+		 batch RMSE = [[1.01162802]]
+	Current batch: 10000
+		 batch RMSE = [[1.01979624]]
+	Current batch: 10500
+		 batch RMSE = [[1.01179096]]
+	Current batch: 11000
+		 batch RMSE = [[1.03887965]]
+	Current batch: 11500
+		 batch RMSE = [[1.02312078]]
+	Current batch: 12000
+		 batch RMSE = [[1.02327825]]
+	Current batch: 12500
+		 batch RMSE = [[1.04203451]]
+	Current batch: 13000
+		 batch RMSE = [[1.01642833]]
+	Current batch: 13500
+		 batch RMSE = [[1.02350638]]
+	Current batch: 14000
+		 batch RMSE = [[1.03765516]]
+	Current batch: 14500
+		 batch RMSE = [[1.00679676]]
+	Current batch: 15000
+		 batch RMSE = [[1.02496766]]
+	Current batch: 15500
+		 batch RMSE = [[1.00885181]]
+	Current batch: 16000
+		 batch RMSE = [[1.00821866]]
+	Current batch: 16500
+		 batch RMSE = [[1.00512708]]
+	Current batch: 17000
+		 batch RMSE = [[1.01245971]]
+	Current batch: 17500
+		 batch RMSE = [[1.02988282]]
+	Current batch: 18000
+		 batch RMSE = [[1.01752884]]
+	Current batch: 18500
+		 batch RMSE = [[1.03222246]]
+	Current batch: 19000
+		 batch RMSE = [[1.02125882]]
+	Current batch: 19500
+		 batch RMSE = [[1.02804941]]
+RMSE after training = [[1.01944565]] +++
+################
+## Split -  4 ##
+################
+Epoch -  0
+19626  batches
+	Current batch: 0
+		 batch RMSE = [[3.77100238]]
+	Current batch: 500
+		 batch RMSE = [[1.07215125]]
+	Current batch: 1000
+		 batch RMSE = [[1.04898211]]
+	Current batch: 1500
+		 batch RMSE = [[1.03760047]]
+	Current batch: 2000
+		 batch RMSE = [[1.04446857]]
+	Current batch: 2500
+		 batch RMSE = [[1.03626814]]
+	Current batch: 3000
+		 batch RMSE = [[1.0319494]]
+	Current batch: 3500
+		 batch RMSE = [[1.02399069]]
+	Current batch: 4000
+		 batch RMSE = [[1.032516]]
+	Current batch: 4500
+		 batch RMSE = [[1.03497847]]
+	Current batch: 5000
+		 batch RMSE = [[1.014905]]
+	Current batch: 5500
+		 batch RMSE = [[1.02607451]]
+	Current batch: 6000
+		 batch RMSE = [[1.02895881]]
+	Current batch: 6500
+		 batch RMSE = [[1.02966218]]
+	Current batch: 7000
+		 batch RMSE = [[1.01863806]]
+	Current batch: 7500
+		 batch RMSE = [[1.03254018]]
+	Current batch: 8000
+		 batch RMSE = [[1.03154913]]
+	Current batch: 8500
+		 batch RMSE = [[1.02007303]]
+	Current batch: 9000
+		 batch RMSE = [[1.01648476]]
+	Current batch: 9500
+		 batch RMSE = [[1.02678097]]
+	Current batch: 10000
+		 batch RMSE = [[1.02005211]]
+	Current batch: 10500
+		 batch RMSE = [[1.01331996]]
+	Current batch: 11000
+		 batch RMSE = [[1.01019811]]
+	Current batch: 11500
+		 batch RMSE = [[1.03398034]]
+	Current batch: 12000
+		 batch RMSE = [[1.018382]]
+	Current batch: 12500
+		 batch RMSE = [[1.02907827]]
+	Current batch: 13000
+		 batch RMSE = [[1.02990755]]
+	Current batch: 13500
+		 batch RMSE = [[1.01109832]]
+	Current batch: 14000
+		 batch RMSE = [[1.02573349]]
+	Current batch: 14500
+		 batch RMSE = [[1.01083855]]
+	Current batch: 15000
+		 batch RMSE = [[1.01488952]]
+	Current batch: 15500
+		 batch RMSE = [[1.02363559]]
+	Current batch: 16000
+		 batch RMSE = [[1.02628611]]
+	Current batch: 16500
+		 batch RMSE = [[1.02601561]]
+	Current batch: 17000
+		 batch RMSE = [[1.03678126]]
+	Current batch: 17500
+		 batch RMSE = [[1.0195839]]
+	Current batch: 18000
+		 batch RMSE = [[1.02235193]]
+	Current batch: 18500
+		 batch RMSE = [[1.02811383]]
+	Current batch: 19000
+		 batch RMSE = [[1.01285993]]
+	Current batch: 19500
+		 batch RMSE = [[1.03163391]]
+RMSE after training = [[1.01749292]] +++
+################
+## Split -  5 ##
+################
+Epoch -  0
+19626  batches
+	Current batch: 0
+		 batch RMSE = [[3.75178994]]
+	Current batch: 500
+		 batch RMSE = [[1.06319089]]
+	Current batch: 1000
+		 batch RMSE = [[1.06589694]]
+	Current batch: 1500
+		 batch RMSE = [[1.05337567]]
+	Current batch: 2000
+		 batch RMSE = [[1.05225193]]
+	Current batch: 2500
+		 batch RMSE = [[1.04851312]]
+	Current batch: 3000
+		 batch RMSE = [[1.03743549]]
+	Current batch: 3500
+		 batch RMSE = [[1.04274225]]
+	Current batch: 4000
+		 batch RMSE = [[1.02829255]]
+	Current batch: 4500
+		 batch RMSE = [[1.05321875]]
+	Current batch: 5000
+		 batch RMSE = [[1.04064151]]
+	Current batch: 5500
+		 batch RMSE = [[1.02207117]]
+	Current batch: 6000
+		 batch RMSE = [[1.03275466]]
+	Current batch: 6500
+		 batch RMSE = [[1.03097811]]
+	Current batch: 7000
+		 batch RMSE = [[1.04062234]]
+	Current batch: 7500
+		 batch RMSE = [[1.01673681]]
+	Current batch: 8000
+		 batch RMSE = [[1.02798386]]
+	Current batch: 8500
+		 batch RMSE = [[1.01022329]]
+	Current batch: 9000
+		 batch RMSE = [[1.04128162]]
+	Current batch: 9500
+		 batch RMSE = [[1.02129969]]
+	Current batch: 10000
+		 batch RMSE = [[1.04280436]]
+	Current batch: 10500
+		 batch RMSE = [[1.03705537]]
+	Current batch: 11000
+		 batch RMSE = [[1.02552613]]
+	Current batch: 11500
+		 batch RMSE = [[1.02992739]]
+	Current batch: 12000
+		 batch RMSE = [[1.02836275]]
+	Current batch: 12500
+		 batch RMSE = [[1.01876538]]
+	Current batch: 13000
+		 batch RMSE = [[1.03082806]]
+	Current batch: 13500
+		 batch RMSE = [[1.02073845]]
+	Current batch: 14000
+		 batch RMSE = [[1.01036973]]
+	Current batch: 14500
+		 batch RMSE = [[1.02685934]]
+	Current batch: 15000
+		 batch RMSE = [[1.02912887]]
+	Current batch: 15500
+		 batch RMSE = [[1.00395169]]
+	Current batch: 16000
+		 batch RMSE = [[1.02063609]]
+	Current batch: 16500
+		 batch RMSE = [[1.05456815]]
+	Current batch: 17000
+		 batch RMSE = [[1.01213516]]
+	Current batch: 17500
+		 batch RMSE = [[1.01960431]]
+	Current batch: 18000
+		 batch RMSE = [[1.02601162]]
+	Current batch: 18500
+		 batch RMSE = [[1.01448918]]
+	Current batch: 19000
+		 batch RMSE = [[1.0100938]]
+	Current batch: 19500
+		 batch RMSE = [[1.01217165]]
+RMSE after training = [[1.01592235]] +++
+
+***Results table***
+
+             0         1         2         3         4      Mean      Std
+Test  1.017524  1.012522  1.019446  1.017493  1.015922  1.016581  0.00259
+ 
