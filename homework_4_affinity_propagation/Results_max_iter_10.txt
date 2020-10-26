@@ -1,0 +1,36 @@
+Loading data...
+Data loaded
+Starting training...
+on 0: Itertion  0
+on 1: Itertion  1
+on 2: Itertion  2
+on 3: Itertion  3
+on 4: Itertion  4
+on 5: Itertion  5
+on 6: Itertion  6
+on 7: Itertion  7
+on 8: Itertion  8
+on 9: Itertion  9
+|████████████████████████████████████████| 10/10 [100%] in 2:34.8 (0.06/s)
+
+Getting clusters...
+Top 10:
+No  cluster id  size of elements
+0   0         19338
+1   110         6220
+2   214         2227
+3   243         1743
+4   544         1679
+5   225         1378
+6   255         724
+7   3         717
+8   99         624
+9   2         580
+Clusters count -  32803
+
+Splitting dataset...
+Train prediction...
+|████████████████████████████████████████| 31441/31441 [100%] in 7:23.7 (70.86/s)
+
+Location prediction accuracy = 0.0012435991221653256
+Cluster accuracy = 0.03306828663210458
